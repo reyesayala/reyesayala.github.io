@@ -1,5 +1,6 @@
 ---
 title: "Winter 2021"
+date: 2015-01-01
 permalink: /teaching/2021-winter-teaching
 ---
 
