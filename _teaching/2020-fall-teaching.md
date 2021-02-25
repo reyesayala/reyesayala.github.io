@@ -7,6 +7,6 @@ date: 2015-01-01
 location: "City, Country"
 ---
 
-LIS 533: Database Design for Information Management
+LIS 533: Database Design for Information Management  
 LIS 534: Information Architecture - Web Design for Usability
 
