@@ -2,8 +2,8 @@
 title: "Fall 2020"
 collection: teaching
 permalink: /teaching/2020-fall-teaching
-venue: "University 1, Department"
-date: 2015-01-01
+venue: "University of Alberta, School of Library and Information Studies"
+date: 2020-09-01
 location: "City, Country"
 ---
 
