@@ -1,6 +1,5 @@
 ---
 title: "Winter 2021"
-collection: teaching
 permalink: /teaching/2021-winter-teaching
 ---
 
