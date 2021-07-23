@@ -1,5 +1,5 @@
 ---
-title: "Winter 2020"
+title: "2020 Winter"
 collection: teaching
 permalink: /teaching/2020-winter-teaching
 venue: "University of Alberta, School of Library and Information Studies"
