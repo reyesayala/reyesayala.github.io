@@ -6,7 +6,6 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2009-10-01
 venue: 'Journal of the Association for Information Science and Technology'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Reyes Ayala, B., Knudson, R., Cao, G., Wang, X., & Chen, J. (2018). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 69(1).'
 ---
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
