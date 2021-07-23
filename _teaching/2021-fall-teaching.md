@@ -3,7 +3,7 @@ title: "Fall 2021"
 collection: teaching
 permalink: /teaching/2021-fall-teaching
 venue: "University of Alberta, School of Library and Information Studies"
-date: 2020-09-01
+date: 2021-09-01
 location: "City, Country"
 ---
 
