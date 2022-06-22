@@ -7,5 +7,6 @@ date: 2022-09-01
 location: "City, Country"
 ---
 
+
 LIS 502: Organization of Information
-LIS 598: Special Topics - Information Retrieval
+LIS 598: Special Topics Information Retrieval
