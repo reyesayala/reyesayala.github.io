@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Human-Computer Interaction, Georgia Institute of Technology
+* Ph.D in Information Science, University of North Texas
 
 Work experience
 ======
@@ -27,14 +26,6 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -54,6 +45,18 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service 
 ======
-* Currently signed in to 43 different slack teams
+Departmental
+------------
+* Committee Member, School of Library and Information Studies Scholarships, Awards, and Bursaries Committee, 2018-2020
+* Committee Member, School of Library and Information Studies Scholarships, Curriculum Committee, 2020-2022
+
+Faculty
+------------
+* Representative, Dean’s Pool for Department Advisory Selection, Faculty of Education, 2019-2021
+* Committee Member, School of Library and Information Studies Director Selection Committee, 2022
+
+University
+------------
+* Alternate Councillor, Association of Academic Staff University of Alberta (AASUA), 2020-current
