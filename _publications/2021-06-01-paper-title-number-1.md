@@ -13,5 +13,5 @@ paperurl: ''
 Recommended citation:  
 
 Reyes Ayala, B. (2021). When expectations meet reality: common misconceptions about web
-archives and challenges for scholars. _International Journal of Digital Humanities, 2, 89-106. doi:
+archives and challenges for scholars. _International Journal of Digital Humanities_, 2, 89-106. doi:
 10.1007/s42803-021-00034-3
