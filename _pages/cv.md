@@ -49,6 +49,7 @@ Teaching
   
 Service 
 ======
+
 Departmental
 ------------
 * Committee Member, School of Library and Information Studies Scholarships, Awards, and Bursaries Committee, 2018-2020
