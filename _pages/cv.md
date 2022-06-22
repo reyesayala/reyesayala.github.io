@@ -23,7 +23,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Conference Proceedings and Posters
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
