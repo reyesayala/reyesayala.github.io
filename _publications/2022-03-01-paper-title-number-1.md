@@ -12,5 +12,5 @@ paperurl: ''
 Recommended citation:  
 
 Reyes Ayala, B. (2022). Correspondence as the primary measure of quality for web archives: A
-human-centered grounded theory study. _International Journal of Digital Libraries, 23, 19-31. doi:
+human-centered grounded theory study. _International Journal of Digital Libraries_, 23, 19-31. doi:
 10.1007/s00799-021-00314-x
