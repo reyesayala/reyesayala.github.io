@@ -8,5 +8,5 @@ location: "City, Country"
 ---
 
 
-LIS 502: Organization of Information
+LIS 502: Organization of Information  
 LIS 598: Special Topics Information Retrieval
