@@ -11,8 +11,10 @@ redirect_from:
 
 Education
 ======
-* M.S. in Human-Computer Interaction, Georgia Institute of Technology
+
 * Ph.D in Information Science, University of North Texas
+* M.S. in Human-Computer Interaction, Georgia Institute of Technology
+* B.S. in Technical Writing and Communication, Carngie Mellon University
 
 Work experience
 ======
