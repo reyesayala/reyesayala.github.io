@@ -9,45 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+### Education
+
 
 * Ph.D in Information Science, University of North Texas
 * M.S. in Human-Computer Interaction, Georgia Institute of Technology
 * B.S. in Technical Writing and Communication, Carngie Mellon University
 
 
-Publications
-======
+### Publications
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Conference Presentations
-======
+### Conference Presentations
+
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
+### Teaching
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service 
-======
+### Service 
 
-Departmental
-------------
+
+#### Departmental
 * Committee Member, School of Library and Information Studies Scholarships, Awards, and Bursaries Committee, 2018-2020
 * Committee Member, School of Library and Information Studies Scholarships, Curriculum Committee, 2020-2022
 
-Faculty
-------------
+#### Faculty
 * Representative, Dean’s Pool for Department Advisory Selection, Faculty of Education, 2019-2021
 * Committee Member, School of Library and Information Studies Director Selection Committee, 2022
 
-University
-------------
+#### University
 * Alternate Councillor, Association of Academic Staff University of Alberta (AASUA), 2020-current
