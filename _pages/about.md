@@ -10,5 +10,5 @@ redirect_from:
 
 
 About me
-======
+--------
 I joined the School of Library and Information Studies at the University of Alberta in 2018. My interests include web archiving, digital preservation, and Human-Computer Interaction. 
