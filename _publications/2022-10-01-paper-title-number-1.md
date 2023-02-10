@@ -7,7 +7,7 @@ venue: 'Theory and Practice of Digital Libraries'
 paperurl: 'https://ceur-ws.org/Vol-3246/'
 ---
 
-[Download paper here](https://rdcu.be/cQbBC)
+[Download paper here](https://ceur-ws.org/Vol-3246/)
 
 Recommended citation:  
 
