@@ -3,7 +3,7 @@ title: "Detecting content drift on the web using web archives and textual simila
 collection: publications
 permalink: /publication/2022-10-01-paper-title-number-1
 date: 2022-10-01
-venue: 'Theory and Practice of Digital Libraries'
+venue: 'Linked Archives Workshop, Theory and Practice of Digital Libraries'
 paperurl: 'https://ceur-ws.org/Vol-3246/'
 ---
 
