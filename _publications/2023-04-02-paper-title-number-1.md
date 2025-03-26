@@ -1,4 +1,3 @@
-
 ---
 title: "Those who are left behind: A chronicle of internet access in Cuba"
 collection: publications
