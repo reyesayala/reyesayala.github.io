@@ -4,8 +4,7 @@ title: "Those who are left behind: A chronicle of internet access in Cuba"
 collection: publications
 permalink: /publication/2023-04-02-paper-title-number-1
 date: 2023-04-02
-venue: 'WWW ’23 Companion: Companion Proceedings of the ACM Web Conference
-2023'
+venue: 'WWW 2023 Companion: Companion Proceedings of the ACM Web Conference 2023'
 paperurl: 'https://dl.acm.org/doi/10.1145/3543873.3585573'
 ---
 
