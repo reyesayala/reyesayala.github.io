@@ -7,7 +7,7 @@ venue: 'Information and Research science Connecting to Digital and Library scien
 paperurl: 'https://ceur-ws.org/Vol-3937/'
 ---
 
-[Download paper here](https://dl.acm.org/doi/10.1145/3543873.3587671)
+[Download paper here](https://ceur-ws.org/Vol-3937/short2.pdf)
 
 Recommended citation:  
 
