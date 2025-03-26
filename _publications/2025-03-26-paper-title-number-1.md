@@ -1,8 +1,8 @@
 ---
 title: "I'm not sure how feasible capture is: Archivability as a Dimension of Website Quality"
 collection: publications
-permalink: /publication/2025-03-25-paper-title-number-1
-date: 2025-03-25
+permalink: /publication/2025-03-26-paper-title-number-1
+date: 2025-03-26
 venue: 'Information and Research science Connecting to Digital and Library science (IRCDL 2025)'
 paperurl: 'https://ceur-ws.org/Vol-3937/'
 ---
