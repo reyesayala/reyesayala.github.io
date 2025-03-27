@@ -1,5 +1,5 @@
 ---
-title: "I'm not sure how feasible capture is: Archivability as a Dimension of Website Quality"
+title: "I'm not sure how feasible capture is: Archivability as a dimension of website quality"
 collection: publications
 permalink: /publication/2025-03-26-paper-title-number-1
 date: 2025-03-26
